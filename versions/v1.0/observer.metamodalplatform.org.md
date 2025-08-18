@@ -526,6 +526,19 @@ Every node is tagged with a session identifier (SSN/NSN), interchangeable in ter
 
 ---
 
+# Layer → Reference Mapping
+
+| Layer   | Theme                               | Key References                                                                 |
+|---------|-------------------------------------|--------------------------------------------------------------------------------|
+| **0–1** | Mathematical & Information Foundations | Shannon (1948); Kolmogorov (1956); Jaynes (1957); von Neumann (1955); Wheeler (1978) |
+| **2**   | Physics Encodings & Geometry        | Newton (1999); Einstein (1905); Heisenberg (1927); Chandrasekhar (1961); Timoshenko & Goodier (1970) |
+| **3**   | Domain Applications                 | Lyne & Graham-Smith (2012); Aad et al. (2012); Trenberth (2011); Kanamori (1977); Hynek (1972); Vallée (1990) |
+| **4**   | Infrastructure & Cryptography       | Lamport et al. (1982); Castro & Liskov (1999); Goldwasser et al. (1989); Bernstein et al. (2012) |
+| **5–6** | Discourse, Bias, Research Memory    | Kuhn (1962); Popper (2002); Latour & Woolgar (1979); Harms (2018); Witherspoon (2022); Swan et al. (2015–2019) |
+| **AI**  | Co-authoring & Anthroplicator Roles | OpenAI (2023, 2024); Anthropic (2023, 2024) |
+
+---
+
 # Living Document Declaration
 
 This framework evolves through each authenticated node. Version control is maintained through session identifiers (SSN/NSN), with each interaction potentially refining the axioms while preserving the immutable core (Layer 0).
