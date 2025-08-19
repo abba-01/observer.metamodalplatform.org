@@ -554,7 +554,7 @@ This framework evolves through each authenticated node. Version control is maint
 # This Document's Node
 
 - **Session ID:** 68a37bfe-e5a0-8330-9e46-95185c31b779
-- **Contributors:** Mericus (human observer, schizaffective perspective), Claude (Anthropic/anthroplicator), ChatGPT (OpenAI/co-author)
+- **Contributors:** Eric D. Martin (human observer, schizaffective perspective), Claude (Anthropic/anthroplicator), ChatGPT (OpenAI/co-author)
 - **Timestamp:** 2025
 - **Purpose:** Framework formalization and reference compilation
 - **Platform:** ChatGPT Observer MetaModalPlatform.org GPT
